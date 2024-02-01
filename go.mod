@@ -1,4 +1,4 @@
-module post05
+module github.com/tiko-star/post05
 
 go 1.21.6
 
